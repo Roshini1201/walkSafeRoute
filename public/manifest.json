@@ -1,0 +1,16 @@
+{
+  "short_name": "WalkSafe",
+  "name": "WalkSafe Route - Pedestrian Safety Navigation",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3514/3514032.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait"
+}

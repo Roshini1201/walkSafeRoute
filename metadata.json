@@ -1,0 +1,6 @@
+{
+  "name": "WalkSafe Route",
+  "description": "Pedestrian safety navigation tool to find the best lit walking routes and avoid unlit streets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
